@@ -20,9 +20,8 @@
 I am an Open-Source Contributor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
 - :telescope: I’m currently a Student of B.Tech at Manikya Lal Verma Textile & Engineering College, Bhilwara
 
-- :computer: Google Summer of Code 2023 @Knative under @CNCF
+  
 
-- :seedling: Exploring Technical Content Writing, and Learning DevOps Tech.
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/_singh_nitish_)
 
