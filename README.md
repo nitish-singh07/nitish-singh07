@@ -35,5 +35,4 @@ I am an Open-Source Contributor <img src="https://media.giphy.com/media/WUlplcMp
 
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nitish-singh07&show_icons=true&theme=dracula&count_private=true)](https://github.com/nitsh-singh07/github-readme-stats)
 
-    <img src="https://github-stats-alpha.vercel.app/api?username=nitish-singh07&cc=222425&tc=fff&ic=fff&bc=222425" alt="Stats" style="margin-left: 20px;" />
 </div>
