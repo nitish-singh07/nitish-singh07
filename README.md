@@ -31,7 +31,7 @@ I am an Open-Source Contributor <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nitish-singh07&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=nitish-singh07&show_icons=true&bg_color=00000000" alt="GitHub Stats" /> -->
 
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nitish-singh07&show_icons=true&theme=dracula&count_private=true)](https://github.com/nitsh-singh07/github-readme-stats)
 
